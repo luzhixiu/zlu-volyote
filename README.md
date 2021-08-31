@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zlu-volyote
 - 👀 I’m interested in machine learning and deep learning applications on biology data.
 - 🌱 I’m currently studying in the Computer Science Department in University of Tennessee at Knoxville. 
-- 💞️
 - 📫 Contact me at zlu21@vols.utk.edu
 
 <!---
