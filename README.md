@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zlu-volyote
-- 👀 I’m interested in machine learning and deep learning applications on biology data.
+- 👋 Hi, I’m @zlu-volyote, Name is Zhixiu Lu, but you can call me Bill.
+- 👀 I’m interested in machine learning, deep learning, life science applciations and bioinformatics.
 - 🌱 I’m currently studying in the Computer Science Department in University of Tennessee at Knoxville. 
 - 📫 Contact me at zlu21@vols.utk.edu
 
