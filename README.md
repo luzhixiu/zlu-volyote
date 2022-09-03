@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zlu-volyote, Name is Zhixiu Lu, but you can call me Bill.
+- 👋 Hi, I’m @zlu-volyote, Name is Zhixiu Lu, but you can call me Eric
 - 👀 I’m interested in machine learning, deep learning, life science applciations and bioinformatics.
 - 🌱 I’m currently studying in the Computer Science Department in University of Tennessee at Knoxville. 
 - 📫 Contact me at zlu21@vols.utk.edu
